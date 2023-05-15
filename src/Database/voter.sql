@@ -1,0 +1,1 @@
+SELECT * FROM voter.election_table;
